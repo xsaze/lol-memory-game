@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/lol-memory-game/static/css/main.2f73dfcf.css",
+    "main.js": "/lol-memory-game/static/js/main.3b7f5d92.js",
+    "static/media/background.png": "/lol-memory-game/static/media/background.67aa3798a52373c548f3.png",
+    "static/media/card-back.png": "/lol-memory-game/static/media/card-back.d19142dd9e1feebaaca7.png",
+    "static/media/ahri.jpg": "/lol-memory-game/static/media/ahri.032d9696be1b1e7f1cab.jpg",
+    "static/media/League.otf": "/lol-memory-game/static/media/League.739853f29545641f87a9.otf",
+    "static/media/lulu.jpg": "/lol-memory-game/static/media/lulu.dec2544a0a13236dbb05.jpg",
+    "static/media/nasus.jpg": "/lol-memory-game/static/media/nasus.0a0be6271bc51d43dbcc.jpg",
+    "static/media/teemo.jpg": "/lol-memory-game/static/media/teemo.4d78c42b35a743d036ee.jpg",
+    "static/media/volibear.jpg": "/lol-memory-game/static/media/volibear.ae8b5b7e1a9ffb1cffbe.jpg",
+    "static/media/kayle.jpg": "/lol-memory-game/static/media/kayle.5525aeaa5e64cfc05502.jpg",
+    "static/media/ryze.jpg": "/lol-memory-game/static/media/ryze.c8d3e0d0d36b66bf165a.jpg",
+    "static/media/vayne.jpg": "/lol-memory-game/static/media/vayne.a456442e2067b157813d.jpg",
+    "static/media/katarina.jpg": "/lol-memory-game/static/media/katarina.d86016fc4263be8f6034.jpg",
+    "static/media/brand.jpg": "/lol-memory-game/static/media/brand.cde037a0f89dbc28fc91.jpg",
+    "static/media/akali.jpg": "/lol-memory-game/static/media/akali.1a389c3b35b222f10555.jpg",
+    "static/media/kennen.jpg": "/lol-memory-game/static/media/kennen.ff2cf2e3f9a26e5ff7c0.jpg",
+    "static/media/masteryi.jpg": "/lol-memory-game/static/media/masteryi.cae58dd660cef8306492.jpg",
+    "static/media/veigar.jpg": "/lol-memory-game/static/media/veigar.3b26764c0cb6062f6784.jpg",
+    "static/media/zed.jpg": "/lol-memory-game/static/media/zed.5f2891d6381b6c4bddd0.jpg",
+    "static/media/karma.jpg": "/lol-memory-game/static/media/karma.ba2b0956397396d9140a.jpg",
+    "static/media/ashe.jpg": "/lol-memory-game/static/media/ashe.d0f22441bec5612bec8a.jpg",
+    "static/media/warwick.jpg": "/lol-memory-game/static/media/warwick.74fa597a53b433df145b.jpg",
+    "static/media/twistedfate.jpg": "/lol-memory-game/static/media/twistedfate.f065f6cb67cc96a2fb0c.jpg",
+    "static/media/twitch.jpg": "/lol-memory-game/static/media/twitch.1177ee40ad08867eed98.jpg",
+    "index.html": "/lol-memory-game/index.html",
+    "main.2f73dfcf.css.map": "/lol-memory-game/static/css/main.2f73dfcf.css.map",
+    "main.3b7f5d92.js.map": "/lol-memory-game/static/js/main.3b7f5d92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f73dfcf.css",
+    "static/js/main.3b7f5d92.js"
+  ]
+}
